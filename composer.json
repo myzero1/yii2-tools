@@ -9,7 +9,6 @@
             "email": "myzero1@sina.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "trntv/yii2-file-kit": "^1.0.0"
     },
