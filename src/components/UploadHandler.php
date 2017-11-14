@@ -1,6 +1,6 @@
 <?php
 
-namespace myzero1\y2tools\components;
+namespace myzero1\yii2tools\components;
 /*
  * jQuery File Upload Plugin PHP Class
  * https://github.com/blueimp/jQuery-File-Upload

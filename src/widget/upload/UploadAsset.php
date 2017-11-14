@@ -3,7 +3,7 @@
  * Author: Eugine Terentev <eugine@terentev.net>
  */
 
-namespace myzero1\y2tools\widget\upload;
+namespace myzero1\yii2tools\widget\upload;
 
 use yii\web\AssetBundle;
 
@@ -14,7 +14,7 @@ class UploadAsset extends AssetBundle
         'yii\web\JqueryAsset',
         'yii\bootstrap\BootstrapAsset',
         // 'trntv\filekit\widget\BlueimpFileuploadAsset'
-        '\myzero1\y2tools\widget\upload\BlueimpFileuploadAsset'
+        '\myzero1\yii2tools\widget\upload\BlueimpFileuploadAsset'
     ];
 
     public function init()

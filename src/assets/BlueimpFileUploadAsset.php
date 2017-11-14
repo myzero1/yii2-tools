@@ -4,7 +4,7 @@
  * @copyright Copyright (c) 2013-2017 myzero1! Consulting Group LLC
  * @license http://opensource.org/licenses/BSD-3-Clause
  */
-namespace myzero1\y2tools\assets;
+namespace myzero1\yii2tools\assets;
 use yii\web\AssetBundle;
 /**
  * FileUploadAsset

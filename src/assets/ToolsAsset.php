@@ -4,7 +4,7 @@
  * @copyright Copyright (c) 2013-2017 myzero1! Consulting Group LLC
  * @license http://opensource.org/licenses/BSD-3-Clause
  */
-namespace myzero1\y2tools\assets;
+namespace myzero1\yii2tools\assets;
 use yii\web\AssetBundle;
 /**
  * FileUploadAsset
@@ -13,7 +13,7 @@ use yii\web\AssetBundle;
  */
 class ToolsAsset extends AssetBundle
 {
-    public $sourcePath = '@backend/module/tools/assets/plugins';
+    public $sourcePath = '@myzero1/yii2tools/assets/plugins';
     public $css = [
         'upload/css/base.css'
     ];
@@ -21,6 +21,6 @@ class ToolsAsset extends AssetBundle
         'upload/js/base.js'
     ];
     public $depends = [
-        'myzero1\y2tools\assets\BlueimpFileUploadAsset',
+        'myzero1\yii2tools\assets\BlueimpFileUploadAsset',
     ];
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace myzero1\y2tools\controllers;
+namespace myzero1\yii2tools\controllers;
 
 use yii\web\Controller;
 

@@ -3,7 +3,7 @@
  * Author: Eugine Terentev <eugine@terentev.net>
  */
 
-namespace myzero1\y2tools\widget\upload;
+namespace myzero1\yii2tools\widget\upload;
 
 use Yii;
 use yii\base\InvalidParamException;
@@ -67,7 +67,7 @@ class Upload extends InputWidget
     /**
      * @var string
      */
-    public $messagesCategory = 'backend/module/tools/widget/widget';
+    public $messagesCategory = 'myzero1/yii2tools/upload/upload';
     /**
      * @var bool preview image file or not in the upload box.
      */
@@ -85,7 +85,18 @@ class Upload extends InputWidget
             $this->maxNumberOfFiles = 1;
         }
         if (!$this->url) {
-            $this->url = ['/tools/upload/upload'];
+            foreach (Yii::$app->getModules() as $key => $module) {
+                if (trim($module::className(), '\\') == trim('myzero1\yii2tools' , '\\')) {
+                    $moduleId = $module->id;
+                }
+            }
+
+            if (isset($moduleId)) {
+                $this->url = ["/$moduleId/upload/upload"];
+            } else {
+                var_dump('请在项目配置文件中，配置yii2-upload模块');exit;
+            }
+
         }
         if (!$this->maxFileSize) {
             $this->maxFileSize = 200 * 1024;

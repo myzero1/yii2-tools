@@ -1,10 +1,10 @@
 <?php
 
-namespace myzero1\y2tools\controllers;
+namespace myzero1\yii2tools\controllers;
 
 
 use yii\web\Controller;
-use myzero1\y2tools\components\UploadHandler;
+use myzero1\yii2tools\components\UploadHandler;
 
 /**
  * Default controller for the `tools` module

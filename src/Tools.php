@@ -1,6 +1,6 @@
 <?php
 
-namespace myzero1\y2tools;
+namespace myzero1\yii2tools;
 
 /**
  * tools module definition class
@@ -10,7 +10,7 @@ class Tools extends \yii\base\Module
     /**
      * @inheritdoc
      */
-    public $controllerNamespace = 'myzero1\y2tools\controllers';
+    public $controllerNamespace = 'myzero1\yii2tools\controllers';
 
     /**
      * @ array

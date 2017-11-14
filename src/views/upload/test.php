@@ -3,7 +3,7 @@
 
 $model = new \backend\models\Product();
 
-echo \myzero1\y2tools\widget\upload\Upload::widget([
+echo \myzero1\yii2tools\widget\upload\Upload::widget([
     'model' => $model,
     'attribute' => 'logo',
     // 'url' => ['/tools/upload/upload'], // default ['/tools/upload/upload'],
