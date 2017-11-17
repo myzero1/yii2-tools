@@ -20,8 +20,9 @@ There are some usefull tools for yii1.
     - [Redactor usage](#redactor-install)
     - [Redactor more](#redactor-more)
 
+-----------------------------------------------------------------------------
+
 ### Gii plus
-------------
 Demo is hosted by awesome [Digital Ocean](https://m.do.co/c/d7f000191ea8)
 
 #### Gii plus install
@@ -36,7 +37,37 @@ Demo is hosted by awesome [Digital Ocean](https://m.do.co/c/d7f000191ea8)
 #### Gii plus more
 [Get more](https://github.com/myzero1/yii2-gii-plus)
 
-
-### Upload
 ----
-Frontend:
+
+### Gii plus
+Demo is hosted by awesome [Digital Ocean](https://m.do.co/c/d7f000191ea8)
+
+#### Gii plus install
+111
+
+#### Gii plus setting
+111
+
+#### Gii plus usage
+111
+
+#### Gii plus more
+[Get more](https://github.com/myzero1/yii2-gii-plus)
+
+----
+
+### Gii plus
+Demo is hosted by awesome [Digital Ocean](https://m.do.co/c/d7f000191ea8)
+
+#### Gii plus install
+111
+
+#### Gii plus setting
+111
+
+#### Gii plus usage
+111
+
+#### Gii plus more
+[Get more](https://github.com/myzero1/yii2-gii-plus)
+
