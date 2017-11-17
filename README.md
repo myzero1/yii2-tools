@@ -37,24 +37,7 @@ Demo is hosted by awesome [Digital Ocean](https://m.do.co/c/d7f000191ea8)
 #### Gii plus more
 [Get more](https://github.com/myzero1/yii2-gii-plus)
 
-----
-
-### Gii plus
-Demo is hosted by awesome [Digital Ocean](https://m.do.co/c/d7f000191ea8)
-
-#### Gii plus install
-111
-
-#### Gii plus setting
-111
-
-#### Gii plus usage
-111
-
-#### Gii plus more
-[Get more](https://github.com/myzero1/yii2-gii-plus)
-
-----
+-----------------------------------------------------------------------------
 
 ### Gii plus
 Demo is hosted by awesome [Digital Ocean](https://m.do.co/c/d7f000191ea8)
