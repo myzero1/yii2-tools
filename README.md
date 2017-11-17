@@ -10,6 +10,15 @@ There are some usefull tools for yii1.
     - [Gii plus usage](#gii-plus-install)
     - [Gii plus more](#gii-plus-more)
 - [Upload](#upload)
+    - [Upload install](#upload-install)
+    - [Upload setting](#upload-setting)
+    - [Upload usage](#upload-install)
+    - [Upload more](#upload-more)
+- [Redactor](#redactor)
+    - [Redactor install](#redactor-install)
+    - [Redactor setting](#redactor-setting)
+    - [Redactor usage](#redactor-install)
+    - [Redactor more](#redactor-more)
 
 ### Gii plus
 ----
