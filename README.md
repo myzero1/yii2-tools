@@ -12,9 +12,7 @@ There are some usefull tools for yii1.
 - [Upload](#upload)
 
 ### Gii plus
-
 ----
-
 Demo is hosted by awesome [Digital Ocean](https://m.do.co/c/d7f000191ea8)
 
 #### Gii plus install
@@ -31,5 +29,5 @@ Demo is hosted by awesome [Digital Ocean](https://m.do.co/c/d7f000191ea8)
 
 
 ### Upload
-
+----
 Frontend:
